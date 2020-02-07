@@ -1,0 +1,30 @@
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0px;
+	margin: 0px;
+	background-image: url("https://media.giphy.com/media/Zf7L4QMWo3RkI/giphy.gif");
+}
+
+main{
+	padding: 0px;
+	margin: 0px;
+	margin: auto;
+	margin: 200px 400px 500px;
+	display: flex;
+}
+
+table, th, td {
+  border: 2px solid #fff;
+  color: #fff;
+  text-align: center;
+   border-collapse: collapse;
+   width: 100px;
+}
+
+
+th {
+  height: 30px;
+  background-color: pink;
+  color: #000;
+}
